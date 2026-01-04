@@ -10,7 +10,7 @@ Inference Engine: Edge Impulse C++ SDK (EON Compiler optimized).
 
 Programming: C++ (Arduino IDE).
 
-🚀 Key Features & Engineering Challenges
+Key Features & Engineering Challenges
 1. Robust Dataset Engineering
 To minimize False Acceptance Rates (FAR), I curated a custom dataset including:
 
